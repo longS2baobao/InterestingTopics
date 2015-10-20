@@ -133,7 +133,7 @@ public class AnimalShelter_Queue {
 		Cat c5 = shelter.new Cat("e");
 		
 		shelter.enqueue(d1);
-		shelter.enqueue(d2);s
+		shelter.enqueue(d2);
 		shelter.enqueue(c3);
 		shelter.enqueue(d4);
 		shelter.enqueue(c5);
